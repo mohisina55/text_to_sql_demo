@@ -80,4 +80,16 @@ SELECT AVG(marks) FROM students WHERE class='10th' AND section='A';
 
 ## 📸 Application Preview
 
-![Screenshots](images/app_ui.png)
+**Query1**
+
+![Screenshots](images/query1.png)
+
+**Query 2**
+![Screenshots](images/query2.png)
+
+**Query 3**
+![Screenshots](images/query3.png)
+
+**Terminal Output**
+
+![Screenshots](images/Terminal.png)
